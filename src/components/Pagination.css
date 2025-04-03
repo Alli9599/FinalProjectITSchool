@@ -1,0 +1,26 @@
+/* Suprascriem stilizarea default a paginarii lui Bootstrap. */
+.pagination a {
+  color: var(--text-primary);
+}
+
+.pagination a:hover {
+  color: var(--text-primary);
+}
+
+.pagination span#pagination-active {
+  background-color: var(--bg-primary);
+  border-color: var(--bg-primary);
+}
+/* Suprascriem stilizarea default a paginarii lui Bootstrap. */
+.pagination a {
+    color: var(--text-primary);
+  }
+  
+  .pagination a:hover {
+    color: var(--text-primary);
+  }
+  
+  .pagination span#pagination-active {
+    background-color: var(--bg-primary);
+    border-color: var(--bg-primary);
+  }
